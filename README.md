@@ -1,1 +1,5 @@
-# E-commerce-website
+![screencapture-127-0-0-1-5500-sports-html-2024-06-25-17_04_00](https://github.com/attaidrees/E-commerce-website/assets/172349104/78ea1308-6056-4d07-90a7-b4236192a89a)
+![screencapture-127-0-0-1-5500-product-html-2024-06-25-17_04_20](https://github.com/attaidrees/E-commerce-website/assets/172349104/346a6872-6094-4b22-b376-669ac7d9e361)
+![screencapture-127-0-0-1-5500-productdetails-html-2024-06-25-17_05_08](https://github.com/attaidrees/E-commerce-website/assets/172349104/78c86345-caa6-434e-9a29-a70d42cdf714)
+![screencapture-127-0-0-1-5500-cart-html-2024-06-25-17_05_26](https://github.com/attaidrees/E-commerce-website/assets/172349104/6244d622-ba00-4fa0-869c-183ab1445606)
+![screencapture-127-0-0-1-5500-account-html-2024-06-25-17_05_37](https://github.com/attaidrees/E-commerce-website/assets/172349104/bee98db0-0566-448c-9550-91fddde53b44)
